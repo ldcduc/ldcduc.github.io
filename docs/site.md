@@ -2,7 +2,7 @@
 
 A reference page for some interesting sites/people that I'd like to follow
 
-## UX/UI  
+## UX/UI
 
 * [Junes](https://junes.fun)
 * [behance](https://www.behance.net/bygabriel) Lam Bao
@@ -11,7 +11,7 @@ A reference page for some interesting sites/people that I'd like to follow
 * [dribbble](https://dribbble.com/tranmautritam) Tri Tam
 * [Josh Comeau](https://www.joshwcomeau.com)
 
-## Code style/convention
+## Tech
 
-* [airbnb/javascript](https://github.com/airbnb/javascript) style guide
+* [hotwire.dev](https://hotwire.dev)
 
