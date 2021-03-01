@@ -1,0 +1,27 @@
+site_name: Duc Le 
+site_url: https://ldcduc.github.io
+site_description: Duc Le
+site_author: ldcduc
+theme:
+  name: material
+  custom_dir: overrides
+  icon:
+    logo: fontawesome/brands/redhat
+  favicon: images/favicon.png
+  features:
+    - navigation.tabs
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - abbr
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+nav:
+  - index.md
+  - contact.md
+  - article.md
+  - site.md
+
