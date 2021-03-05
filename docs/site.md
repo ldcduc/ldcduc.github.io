@@ -15,3 +15,7 @@ A reference page for some interesting sites/people that I'd like to follow
 
 * [hotwire.dev](https://hotwire.dev)
 
+## Investment
+
+* [citics.vn](https://citics.vn)
+
