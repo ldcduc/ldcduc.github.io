@@ -13,9 +13,19 @@ A reference page for some interesting sites/people that I'd like to follow
 
 ## Tech
 
+* [MDN](https://developer.mozilla.org/en-US)
 * [hotwire.dev](https://hotwire.dev)
+* [thevaluable.dev](https://thevaluable.dev)
 
 ## Investment
 
 * [citics.vn](https://citics.vn)
+
+## Methods
+
+* [The Present Writer](https://thepresentwriter.com/blog)
+    * [Youtube](https://www.youtube.com/channel/UCRzBCxZnz7b69_9qTFp4OEA)
+    * [Podcast](https://thepresentwriter.com/podcast)
+* [Ngochieu](https://ngochieu.com)
+    * [Podcast](https://hieu.tv)
 
