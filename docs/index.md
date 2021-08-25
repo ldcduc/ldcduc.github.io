@@ -4,7 +4,7 @@
 
 2021 is the year for me to refresh myself, and start a new journey. I don't even know what will be happening, just believe in myself.  
 
-> Hi March!  
+> Hi August!  
 
 <div style="clear:both"></div>
 
@@ -14,9 +14,10 @@
 
 ## Work
 
-### Actively applying
+### Kyber Network
 
-Feb 2021  
+Software Engineer - **Blockchain R&D Team**  
+April 2021 - On going  
 
 ### Teko Vietnam
 
